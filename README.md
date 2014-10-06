@@ -1,8 +1,7 @@
 WebFundamentals-Teamwork
 ========================
->
+
 *Git repository for the Web Fundamentals (HTML + CSS) teamwork for team "Cadmium red"*
->
 
 ###How to view the php files
 1. Clone the GitHub repository locally
@@ -28,7 +27,7 @@ WebFundamentals-Teamwork
 		- Slider
 	- Subpages
 
-3. Content Ideas - deadline: 05.10.2014
+3. Content Ideas - deadline: **05.10.2014**
 			Idea - Complete Idiot's guide to SoftUni
 			Details:
   1. Introduction to SoftUni Organization
@@ -41,7 +40,7 @@ WebFundamentals-Teamwork
     - Gallery + descrition;
 					
 ###Project realisation					
-1. Think out structure - deadline: 05.10.2014
+1. Think out structure - deadline: **05.10.2014**
   1. Homepage - Introduction
     * Navbar (same on all pages - PHP) - fixed to top;
 	* Slider - featured - e.g. [Rocksprocket](http://demo.rockettheme.com/wordpress-plugins/roksprocket/)
@@ -55,4 +54,4 @@ WebFundamentals-Teamwork
   4. Facilities - Sections article + picture;	 
 2. Write HTML - deadline: 
 3. Write CSS - deadline: 
-4. Final tuning and upload - deadline: 20.10.2014
+4. Final tuning and upload - deadline: **20.10.2014**
