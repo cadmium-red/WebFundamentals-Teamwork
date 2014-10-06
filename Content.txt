@@ -1,0 +1,174 @@
+http://www.nakov.com/
+
+
+https://www.youtube.com/watch?v=oggZ90EXIJQ 
+
+
+"На Иванчо са му дали 3 ябълки. 
+Той е изял 2. 
+Колко ябълки има Иванчо? 
+Мислите си че 1? 
+Ама никъде не е казано, колко ябълки е имал Иванчо преди да му дадат 3-те. 
+Извод - нулирайте си променливите! 
+ 
+Иванчо има 3 ябълки. Дали му още 3. Той изял 2. Колко ябълки има Иванчо? 
+4? Неееееееееее! 6! Двете ги е изял един ден по рано. 
+Извод - синхронизирайте си нишките! 
+ 
+Иванчо имал 5 ябълки. Изял 2. Колко са му останали? 
+3? Нееее! Той не е ял свои ябълки! Пак има 5! 
+Извод - защитавайте си адресното пространство! 
+ 
+На Иванчо му дали 3 ябълки. Той ги изял. 
+На другия ден дошли да му ги искат, защото били дадени само за съхранение. 
+Извод - четете си спецификацията"
+
+
+
+Юзерът:
+“Компютъра не ще да се включи - викам оня шаман админа.
+Дойде той, вдигна ръце към небето, промърмори някакви неясни думи,
+завъртя ми стола 10 пъти около оста му, ритна компютъра, наведе се под бюрото,
+и пак промърмори нещо неясно, вкючи компютъра и той тръгна!
+Пак дигна ръце към небето, промърмора нещо и излезе.”
+По думите на админа:
+“Отивам при юзъра - а тоя глупак така се е въртял на стола, че намотал около него захранващия кабел.
+Напсувах го яко ама тихо да не ме чуе, разплетох кабела, ритнах компютъра по-далече под бюрото, включих го, пак го напсувах и си излязох.
+
+
+
+
+
+Програмист звъни в библиотеката.
+- Здравейте, Ваня там ли е?
+- Тя е в архива.
+- Разархивирайте я, моля. Трябва ми спешно!
+
+
+
+
+
+
+
+
+
+Жена буди мъжа си системен администратор посред нощ:
+
+- Скъпи студено ми е, да затворя ли прозореца?
+
+- НЕ ЗАТВАРЯЙ само го минимизирай!!!
+
+
+
+
+
+О, Windows!
+Три дена храбро инсталирах.
+Трих, слагах, регистрирах.
+Не тръгваш и не тръгваш сам,
+показваш само син екран.
+Първо ми съсипваш FAT,
+преминавам през format,
+но не стига таз беля,
+нов дял трябва да ти заделя.
+Хоп, пак не се получи
+работата се закучи,
+драйвер някакъв незнаен,
+искаш в цикъл най-безкраен.
+С Wizardа отново споря,
+но не мога да го сборя.
+Нямам Plug And Play модем,
+разбери го бе, кретен!
+Изнервям се, та чак треперя.
+CD-то искам да намеря,
+та да тръгнеш най-подир,
+а не под DOS да пиша Dir.
+Уж тръгна, пуснах Service Pack,
+О, не - ще инстарирам пак!
+Най-после посред нощ,
+използвах софтуера лош.
+На сутринта от шлаката изрових,
+процесор спечен и пророних:
+Да бе мирно си седяло,
+не би от Setup умряло.
+
+
+
+ About source
+
+http://www.nakov.com/about/
+
+Svetlin Nakov has 15 years technical background as software engineer, software project manager, consultant, trainer, and entrepreneur with rich experience with the .NET and Java EE platforms, information systems, databases, Web development and software engineering. He is author of 7 books about computer programming and software technologies, C# and Java, and tens of technical and scientific publications. Svetlin has been a speaker at hundreds of conferences, seminars, courses and other trainings. He holds a PhD degree in computer science, medals from the International Informatics Olympiads (IOI) and the Bulgarian President’s award “John Atanassoff”. He has been a part-time lecturer in Sofia University, New Bulgarian University and the Technical University of Sofia. Currently Svetlin drives the largest training center for software engineers in Bulgaria – Telerik Software Academy where he teaches young people in computer science, software development and information technologies.
+
+
+
+Project sorce
+http://www.nakov.com/wp-content/uploads/2010/09/Resume-Svetlin-Nakov.html
+
+
+
+ID Cards Scan & OCR System (July 2009 – Now)
+Description: Software for scanning personal ID documents (ID cards, passports, driving licenses, automobile registration documents, etc.) and optical recognition (OCR) of the text data inside them. Project challenges include research and development of image scanning, approximate image matching, image normalization (contrast, move, rotate, deskew, etc.), background removal algorithms, as well as development of specialized OCR text recognition engine with 99.9% accuracy for Latin and Cyrillic text. 
+
+
+
+IMS – Insurance Management System (March 2009 – Now)
+Description: Complex information system for creating and managing automobile insurances (TPL, Kasko and others). The system is utilized by all agents and brokers of large insurance company to create insurances, print policies, send reports and perform payments. It provides management of branches, brokers and agents, clients register, vehicle register, insurances register, tariffs calculator, blanks management, commissions management, additives management, optical passport data reader integration, policy printing as PDF, and reporting in Excel. It provides also Web interface for online insurances and Web services interfaces for integration with external systems. Participated as technical leader and principal software engineer.
+
+
+
+
+TAM Tool (February 2009 – March 2009)
+Description: Telecom Applications Map Tool keeps information about the applications running in a large telecom according to the TeleManagement Forum Applications Framework (TAM). The tool simplifies planning and monitoring the existing IT ecosystem by keeping structured information about groups, categories, functions, applications, vendors and contacts. Participated as project leader.
+
+
+
+
+Skills
+Computer Science and Software Engineering Skills
+Software project management
+Software architectures
+Software engineering
+Object-oriented programming and modeling
+Distributed systems and multi-tier architectures
+Relational databases and database design
+Internet technologies and Web development
+High-quality programming code construction
+Network security, PKI and cryptography
+Business analysis and business process modeling
+Multithreading and synchronization
+Computational linguistics and natural language processing (NLP)
+Data structures and algorithms
+
+
+
+
+Awards
+Award “John Atanassoff” of the Bulgarian President for Contribution to the Development of the Information and Computer Technologies and Information Society, Bulgaria, 2004
+Award “Citizen of Veliko Tarnovo of the Year” of the Veliko Tarnovo Municipality, Bulgaria, 2005
+National Scholarship “John Atanassoff” for Computer Science Research, Evrika Foundation, 2003
+Participation in ACM ICPC World Finals (as a trainer), Prague, Czech Republic, 2004
+
+
+
+
+Softuni Conf 10-12
+https://softuni.bg/trainings/seminars/details/1061
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
