@@ -10,7 +10,6 @@
 <meta name="author" content="" />	
 <!-- CSS -->
 <link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />
-<link rel="stylesheet" type="text/css" href="css/kickstart-slideshow.css" media="all" />
 <link rel="stylesheet" type="text/css" href="style.css" media="all" /> 	
 	<!-- Javascript -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
