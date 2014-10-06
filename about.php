@@ -37,13 +37,10 @@
 			</p>
 			
 			</div> <!-- end #content -->
-			
-			<!-- START NAVIGATION -->
+		</div> <!-- End #wrapper -->			
+			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>
-			<!-- END NAVIGATION -->
-			
-		</div> <!-- End #wrapper -->
-
+			<!-- END FOOTER -->
 	</body>
-
 </html>
+
