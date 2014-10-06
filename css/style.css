@@ -22,7 +22,7 @@ border-right:1px solid #ccc;
 padding:10px;
 }
 
-#nav {
+/* #nav {
 height:40px;
 border-bottom:1px solid #ccc;
 }
@@ -37,7 +37,7 @@ background-color:#f1f1f1;
 #nav a:hover {
 background-color:#bababa;
 height:80px;
-}
+} */
 
 #content {
 float:left;
