@@ -8,6 +8,7 @@ How to view the php files
 -------------------------
 1. Clone the GitHub repository locally
 2. Download and install XAMPP (LAMPP etc.) - https://www.apachefriends.org/index.html
+OPTIONAL: to have Skype working together with XAMPP - from the Skype options-> advanced -> connection, remove the mark from "use ports 80 and 443.."
 3. Start the XAMPP control panel end edit Apache configuration (httpd.conf) - change the path on lines 243 and 244 with the folder you have downloaded the GitHub repository to. 
 4. From you favourite internet browser navigate to http://localhost:80/index.php
 
