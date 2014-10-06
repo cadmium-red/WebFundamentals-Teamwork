@@ -54,9 +54,9 @@
 			
 			</div> <!-- end #content -->
 			
-			<!-- START NAVIGATION -->
+			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>
-			<!-- END NAVIGATION -->
+			<!-- END FOOTER -->
 			
 		</div> <!-- End #wrapper -->
 

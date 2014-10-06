@@ -41,7 +41,7 @@ height:80px;
 
 #content {
 float:left;
-padding:10px;
+padding: 5% 0;
 }
 
 #footer {
@@ -54,4 +54,16 @@ margin: -10px 0 0 0;
 
 #footer p {
 padding:10px;
+}
+
+#nav > ul.menu{
+margin:0;
+padding:0;
+line-height:100%;
+font-size:0; /* Kill white space gap between LI elements */
+position:fixed;
+top: 0;
+left: 0;
+width: 100%;
+z-index:1000;
 }
