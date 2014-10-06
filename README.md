@@ -3,7 +3,7 @@ WebFundamentals-Teamwork
 >
 *Git repository for the Web Fundamentals (HTML + CSS) teamwork for team "Cadmium red"*
 >
->
+
 ###How to view the php files
 1. Clone the GitHub repository locally
 2. Download and install XAMPP (LAMPP etc.) - [XAMMP Homepage](https://www.apachefriends.org/index.html)
