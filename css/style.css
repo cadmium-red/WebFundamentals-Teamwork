@@ -44,16 +44,18 @@ float:left;
 padding: 10px;
 }
 
-#footer {
-background: #234465;
-padding: 0 0 26px 0;
+#footer{
+text-align:center;
+padding:20px;
+margin:0;
+border-top:1px solid #ddd;
+color:#999;
+font-size:0.8em;
+text-shadow:0px 1px 1px #fff;
 position: relative;
-overflow: hidden;
-margin: -10px 0 0 0;
-}
-
-#footer p {
-padding:10px;
+top:0;
+left:0;
+background:#fff;
 }
 
 #nav > ul.menu{
