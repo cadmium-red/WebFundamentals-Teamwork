@@ -15,7 +15,12 @@ border-right:1px solid #ccc;
 }
 
 #header {
-
+width:960px;
+height:135px;
+margin:0 auto;
+margin-bottom:25px;
+border-bottom:1px solid #ccc;
+border-top:1px solid #ccc;
 }
 
 #header h2 {
@@ -45,11 +50,10 @@ padding:10px;
 }
 
 #footer {
-background: #234465;
-padding: 0 0 26px 0;
-position: relative;
-overflow: hidden;
-margin: -10px 0 0 0;
+clear:both;
+width:960px;
+height:135px;
+border-top:1px solid #ccc;
 }
 
 #footer p {
