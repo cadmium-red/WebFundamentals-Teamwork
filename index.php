@@ -53,13 +53,9 @@
 			</p>
 			
 			</div> <!-- end #content -->
-			
+		</div> <!-- End #wrapper -->			
 			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>
 			<!-- END FOOTER -->
-			
-		</div> <!-- End #wrapper -->
-
 	</body>
-
 </html>
