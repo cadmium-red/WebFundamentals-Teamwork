@@ -1,4 +1,4 @@
-﻿<div id="footer">
+﻿<div id="footer" class="col_12">
 	<div class="col_6 visible column">
 		<h3>ЗА УНИВЕРСИТЕТА</h3>
 		<ul>

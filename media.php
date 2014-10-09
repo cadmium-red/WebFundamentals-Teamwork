@@ -25,7 +25,9 @@
 			
 				<!-- Gallery -->
 				<div class="gallery">
-					<a href="http://placehold.it/600x450/4D99E0/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/4D99E0/ffffff.png&text=200x200" width="200" height="200" /></a>
+					<a href="http://placehold.it/600x450/4D99E0/ffffff.png&text=600x450&div=text">
+						<img src="http://placehold.it/100x100/4D99E0/ffffff.png&text=200x200" width="200" height="200" />
+					</a>
 					<a href="http://placehold.it/600x450/75CC00/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/75CC00/ffffff.png&text=200x200" width="200" height="200" /></a>
 					<a href="http://placehold.it/600x450/E49800/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/E49800/ffffff.png&text=200x200" width="200" height="200" /></a>
 					<a href="http://placehold.it/600x450/E4247E/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/E4247E/ffffff.png&text=200x200" width="200" height="200" /></a>
@@ -37,6 +39,7 @@
 					<a href="http://placehold.it/600x450/C50000/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/C50000/ffffff.png&text=200x200" width="200" height="200" /></a>
 				</div>
 				<!-- Align Left -->
+				<div class="text">Text</div>
 				<img class="align-left" src="http://placehold.it/600x450/7400E4/ffffff.png&text=600x450" width="600" height="450" />
 				<h2>Title ot image</h2>
 				<p>Text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, 
