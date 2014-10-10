@@ -35,23 +35,16 @@
 
 			<div id="content"> <!-- Start CONTENT (Article) -->
 			
-			<h2>About article - Introduction to SoftUni Organization</h2>
-			
-			<p>
-			
-			Text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text.
-			</p>
-				
-			<p>
-			
-			Text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text.
-			</p>
-			
-			<p>
-			
-			Text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text.
-			</p>
-			
+			<h2>Що е СофтУни</h2>			
+				<p>Уважаеми посетителю, ти не можеш да спиш, вечер лягаш и сутрин се събуждаш и получаваш тетанички гърчове в мъката си по един единствен въпрос - "Аджаба, що е туй СофтУни-то и има ли то почва у нас?". Попаднал на правилното място! Този всеобхватен портал на познанието ще ти даде отговор на екзистенциалния ти въпрос, и ще възстанови психосоматичния ти статус на вегетиращо мушкато!</p>
+				<p>В нас няма и капка на съмнение, че ти си една комплексна личност, изградена от емоции и душевни терзания и след като се убедиш, че СофтУни у нас почва има, твоята уникалност ще те подтикне да търсиш отговора на следващия въпрос "Ко са случва у СофтУни-то и ко шъ ма пра'ят ако отида там?". Бързаме да изпреварим естествения ти еднопластов мисловен процес, отговорът е елементарен - в СофтУни в резултат от едукационния процес ще бъде нарушена интактността на твоята каудална област. С думи прости, предназначени за хора сложни перифразираме накратко - ще ти се скъса дупето от учене.</p>
+				<p>Въпреки обаче нашето огромно познание и неимоверната ни компетенция по проблематиката свързана с същината на въпросите, ти ще трябва да се запознаеш в детайли с отделните аспекти на дейностите в СофтУни и сам да вникнеш в същността на тази света обител. Чети, и помни нашия завет:</p>
+				<blockquote  class="small">
+				<p>
+				"Ако не успееш от първия път, най-вероятно парашутизмът не е за теб!"
+				<span>Некой Важен</span>
+				</p>
+				</blockquote>		
 			</div> <!-- end #content -->
 		</div> <!-- End #wrapper -->			
 			<!-- START FOOTER -->
