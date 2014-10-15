@@ -1,17 +1,18 @@
 body {
-background-color:#f1f1f1;
-font-family: georgia,sans-serif;
-color:#333;
-margin:0;
-padding-top: 5%;
+    background-color: #f1f1f1;
+    font-family: georgia, sans-serif;
+    color: #333;
+    margin: 0;
+    padding-top: 5%;
 }
 
 #wrapper {
-width:960px;
-background-color:#f8f8f8;
-margin:0 auto;
-border-left:1px solid #ccc;
-border-right:1px solid #ccc;
+
+    width: 960px;
+    background-color: #f8f8f8;
+    margin: 0 auto;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
 }
 
 #header {
@@ -19,7 +20,7 @@ border-right:1px solid #ccc;
 }
 
 #header h2 {
-padding:10px;
+    padding: 10px;
 }
 
 /* #nav {
@@ -40,32 +41,86 @@ height:80px;
 } */
 
 #content {
-float:left;
-padding: 10px;
+    float: left;
+    padding: 10px;
 }
 
-#footer{
-text-align:center;
-padding:20px;
-margin:0;
-border-top:1px solid #ddd;
-color:#999;
-font-size:0.8em;
-text-shadow:0px 1px 1px #fff;
-position: relative;
-top:0;
-left:0;
-background:#fff;
+#footer {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    border-top: 1px solid #ddd;
+    color: #999;
+    font-size: 0.8em;
+    text-shadow: 0px 1px 1px #fff;
+    position: relative;
+    top: 0;
+    left: 0;
+    background: #fff;
+}
+#nav{
+    width: 100%;
+    background: #000000;
+}
+.menu{
+    text-shadow:none;
+    border:1px solid #ccc;
+    background: black;
+
+   /* background: rgba(35,68,101,1);
+    background: -moz-linear-gradient(top, rgba(35,68,101,1) 0%, rgba(35,68,101,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(35,68,101,1)), color-stop(100%,rgba(35,68,101,1)));
+    background: -webkit-linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%);
+    background: -o-linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%);
+    background: linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%); */
+    z-index:600;
 }
 
-#nav > ul.menu{
-margin:0;
-padding:0;
-line-height:100%;
-font-size:0; /* Kill white space gap between LI elements */
-position:fixed;
-top: 0;
-left: 0;
-width: 100%;
-z-index:1000;
+#nav > ul.menu {
+
+    margin: 0;
+    padding-left: 7%;
+    padding-right: 7%;
+    line-height: 100%;
+    font-size: 0; /* Kill white space gap between LI elements */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+#nav > ul.menu > li {
+
+    float: right;
+    margin: 1%;
+
+}
+@media screen and (min-width: 0px) and (max-width: 400px) {
+    #nav>ul.menu>li { display: block; }  /* show it on small screens */
+}
+
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+    #nav>ul.menu>li { display: none; }   /* hide it elsewhere */
+}
+
+#nav>ul>li.logo{
+
+    float:left
+
+}
+#nav>ul>div.logo>img {
+    max-width: 100%;
+
+    float:left;
+    position: relative;
+    vertical-align: middle;
+}
+#nav>ul>div.logo>{
+    max-width: 100%;
+}
+#nav > ul.menu > li:hover {
+
+   background: blue;
+
 }

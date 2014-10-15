@@ -19,7 +19,7 @@
 		<!-- NAVIGATION -->
 		<?php include('includes/nav.php'); ?>
 		<!-- NAVIGATION -->
-		<div class="grid">			
+		<div class="grid">
 			<div id="header">			
 				<!-- Slideshow -->
 				<div>
