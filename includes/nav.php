@@ -1,6 +1,8 @@
 <div id="nav">
+
 <!-- Menu Horizontal -->
 <ul class="menu">
+<li id="Logo"><img id="LogoBox" src="../img/logo.png" /></li>
 <li class="current"><a href="index.php">Introduction</a></li>
 <li><a href="about.php">About</a></li>
 <li><a href="media.php">Media</a></li>
