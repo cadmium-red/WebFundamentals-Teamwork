@@ -9,9 +9,7 @@
 -----------------------------------*/
 .menu{margin:0;padding:0;line-height:100%;
 font-size:0; /* Kill white space gap between LI elements */
-position:relative;z-index:1000;
-}
-
+position:relative;z-index:1000;}
 
 	.menu:after{clear:both;content:' ';display:block;font-size:0;line-height:0;visibility:hidden;width:0;height:0}
 	.menu li{margin:0;padding:0;list-style-type:none;display:inline-block;*display:inline;position:relative;zoom:1;line-height:inherit;
@@ -60,23 +58,19 @@ position:relative;z-index:1000;
 	EDIT BELOW THIS LINE TO CUSTOMIZE
 -----------------------------------*/
 .menu{
-position:fixed;
-height: 80px;
 border:1px solid #ccc;
-float:right;
-background: #234465; /* Old browsers */
-background: -moz-linear-gradient(top, rgba(35,68,101,1) 0%, rgba(35,68,101,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(35,68,101,1)), color-stop(100%,rgba(35,68,101,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%); /* Opera11.10+ */
-background: linear-gradient(top, rgba(35,68,101,1) 0%,rgba(35,68,101,1) 100%); /* W3C */
+background: #eee; /* Old browsers */
+background: -moz-linear-gradient(top, rgba(252,252,252,1) 0%, rgba(224,224,224,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(224,224,224,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(252,252,252,1) 0%,rgba(224,224,224,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(252,252,252,1) 0%,rgba(224,224,224,1) 100%); /* Opera11.10+ */
+background: linear-gradient(top, rgba(252,252,252,1) 0%,rgba(224,224,224,1) 100%); /* W3C */
 z-index:600;
 }
 
-	.menu li{float:right;}
+	.menu li{}
 
 		.menu li a{
-
 		text-shadow:0px 1px 1px #fff;
 		padding:15px 20px;
 		text-decoration:none;

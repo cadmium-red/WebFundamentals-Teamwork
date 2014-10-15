@@ -22,10 +22,22 @@ border-right:1px solid #ccc;
 padding:10px;
 }
 
+/* #nav {
+height:40px;
+border-bottom:1px solid #ccc;
+}
 
+#nav a {
+display:inline;
+padding:10px;
+text-decoration:none;
+background-color:#f1f1f1;
+}
 
-
-
+#nav a:hover {
+background-color:#bababa;
+height:80px;
+} */
 
 #content {
 float:left;
@@ -47,18 +59,13 @@ background:#fff;
 }
 
 #nav > ul.menu{
-
 margin:0;
 padding:0;
 line-height:100%;
 font-size:0; /* Kill white space gap between LI elements */
-
+position:fixed;
 top: 0;
 left: 0;
 width: 100%;
 z-index:1000;
 }
-#Logo{
-    float: left;
-}
-
