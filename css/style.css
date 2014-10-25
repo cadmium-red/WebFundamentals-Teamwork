@@ -7,6 +7,9 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
+#myCarousel > div > div.item.active>img{
+margin:0 auto;
+}
 
 .thumb {
     margin-bottom: 30px;
