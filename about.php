@@ -45,14 +45,14 @@
                 <h3>Светлин Наков
                     <small>Кардинал</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p>Наков не се страхува от нищо! Но всичко се страхува от Наков!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <img class="img-circle img-responsive img-center" src="img/exam-thumb.png" alt="">
+                <h3>Джон Смит
+                    <small>Асистент</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p>Асистентите не включват светлината...Те гасят тъмнината</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
