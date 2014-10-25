@@ -1,15 +1,5 @@
-﻿<div id="footer" class="col_12">
-	<div class="col_6 visible column">
-		<h3>ЗА УНИВЕРСИТЕТА</h3>
-		<ul>
-			<li>За нас</li>
-			<li>Text</li>
-			<li>Text</li>
-			<li>Text-Text Text Text</li>
-			<li>Text</li>
-			<li>Text</li>
-			<li>Text</li>
-		<ul>
-	</div>
-	<div>Footer (box for facebook and etc. Test)</div>
-</div>
+﻿    <div class="footer">
+      <div class="container">
+        <p class="text-muted">Place sticky footer content here.</p>
+      </div>
+    </div>
