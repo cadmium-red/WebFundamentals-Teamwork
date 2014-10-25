@@ -44,7 +44,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+          <img src="img/achebg.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Another example headline.</h1>
@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+          <img src="img/hall.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>One more for good measure.</h1>
