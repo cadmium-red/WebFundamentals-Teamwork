@@ -17,6 +17,7 @@
             <li class="active"><a href="index.php">Home</a></li>
             <li><a href="facilities.php">Facilities</a></li>
             <li><a href="media.php">Media</a></li>
+            <li><a href="about.php">About</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
