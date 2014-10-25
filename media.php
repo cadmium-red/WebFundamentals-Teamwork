@@ -9,46 +9,96 @@
 <meta name="keywords" content="" />
 <meta name="author" content="" />	
 <!-- CSS -->
-<link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />
-<link rel="stylesheet" type="text/css" href="css/style.css" media="all" /> 	
-	<!-- Javascript -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="js/kickstart.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="all" /> 	
 </head>
 	<body>
+		    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
 		<!-- NAVIGATION -->
 		<?php include('includes/nav.php'); ?>
 		<!-- NAVIGATION -->
 		<div class="grid">
-			
-			<div id="content"> <!-- Start CONTENT (Article) -->
-			
-				<!-- Gallery -->
-				<div class="gallery">
-					<a href="http://placehold.it/600x450/4D99E0/ffffff.png&text=600x450&div=text">
-						<img src="http://placehold.it/100x100/4D99E0/ffffff.png&text=200x200" width="200" height="200" />
-					</a>
-					<a href="http://placehold.it/600x450/75CC00/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/75CC00/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/E49800/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/E49800/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/E4247E/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/E4247E/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/00C6E4/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/00C6E4/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/E4DB0F/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/E4DB0F/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/7400E4/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/7400E4/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/C50000/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/C50000/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/C50000/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/C50000/ffffff.png&text=200x200" width="200" height="200" /></a>
-					<a href="http://placehold.it/600x450/C50000/ffffff.png&text=600x450"><img src="http://placehold.it/100x100/C50000/ffffff.png&text=200x200" width="200" height="200" /></a>
-				</div>
-				<!-- Align Left -->
-				<div class="text">Text</div>
-				<img class="align-left" src="http://placehold.it/600x450/7400E4/ffffff.png&text=600x450" width="600" height="450" />
-				<h2>Title ot image</h2>
-				<p>Text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, 
-				text, text, text, text, text, text, text, text, text, text, text, text, text, text, text, 
-				text, text, text, text, text, text, text, text, text, text, text, text, text, 
-				text, text, text, text, text, text, text, text, text, text, text, text, text, text, 
-				text, text, text, text, text, text, text, text, text, text, text, text, text, text, text!</p>
-			</div> <!-- end #content -->
-		</div> <!-- End #wrapper -->			
+			<div id="header">			
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h1 class="page-header">Thumbnail Gallery</h1>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+                </a>
+            </div>
+        </div>
+
+        <hr>
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>		
 			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>
 			<!-- END FOOTER -->
