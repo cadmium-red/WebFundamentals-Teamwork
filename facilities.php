@@ -37,7 +37,7 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+                <img class="img-responsive" src="img/sauron.png" alt="">
             </div>
 
             <div class="col-md-4">
