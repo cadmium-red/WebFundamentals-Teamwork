@@ -41,18 +41,18 @@
                 <h2 class="page-header">Our Team</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/gizmo.png" alt="">
+                <img class="img-circle img-responsive img-center" src="img/gizmo-thumb.png" alt="">
                 <h3>Гизмо Наков
-                    <small>Могуей</small>
+                    <small>Master Могуей</small>
                 </h3>
                 <p>Наков не се страхува от нищо! Но всичко се страхува от Наков!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/exam-thumb.png" alt="">
-                <h3>Джон Смит
-                    <small>Асистент</small>
+                <img class="img-circle img-responsive img-center" src="img/achebg-thumb.png" alt="">
+                <h3>Аче Смит
+                    <small>Java Могуей</small>
                 </h3>
-                <p>Асистентите не включват светлината...Те гасят тъмнината</p>
+                <p>Джаварите не включват светлината...Те гасят тъмнината</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
