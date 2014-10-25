@@ -41,9 +41,9 @@
                 <h2 class="page-header">Our Team</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/cardinal-thumb.png" alt="">
-                <h3>Светлин Наков
-                    <small>Кардинал</small>
+                <img class="img-circle img-responsive img-center" src="img/gizmo.png" alt="">
+                <h3>Гизмо Наков
+                    <small>Могуей</small>
                 </h3>
                 <p>Наков не се страхува от нищо! Но всичко се страхува от Наков!</p>
             </div>
