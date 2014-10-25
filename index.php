@@ -34,7 +34,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="img\cardinal.png" alt="First slide">
+          <img src="img/cardinal.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
