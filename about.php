@@ -104,12 +104,21 @@
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <img class="img-circle img-responsive img-center" src="img/sto-thumb.png" alt="stoImg" data-toggle="modal" data-target="#stoModal">
+                <h3>Просто Сто
+                    <small>Linux Гремлин</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p>Може да инсталира Microsoft Office на Slackware</p>
             </div>
+			<div id="stoModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			  <div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<img src="img/sto.png" class="img-responsive">
+					</div>
+				</div>
+			  </div>
+			</div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <h3>John Smith
