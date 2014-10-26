@@ -73,7 +73,7 @@
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="img/vlado-thumb.png" alt="vladoImg" data-toggle="modal" data-target="#vladoModal">
-                <h3>Владо Хайзенбергов
+                <h3>Владо theCook
                     <small>CSS Гремлин</small>
                 </h3>
                 <p>Когато се разхожда в планината, той оглежда заобикалящата го природа и се любува на графиката!</p>
@@ -88,12 +88,21 @@
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
-                <h3>John Smith
-                    <small>Job Title</small>
+                <img class="img-circle img-responsive img-center" src="img/marian-thumb.png" alt="marianImg" data-toggle="modal" data-target="#marianModal">
+                <h3>Мариян Smith
+                    <small>Linux Гремлин</small>
                 </h3>
-                <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                <p>Собственоръчно е компилирал първият компилатор...</p>
             </div>
+			<div id="marianModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			  <div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<img src="img/marian.png" class="img-responsive">
+					</div>
+				</div>
+			  </div>
+			</div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
                 <h3>John Smith
