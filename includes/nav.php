@@ -14,11 +14,11 @@
 		</div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="index.php">Home</a></li>
-            <li><a href="facilities.php">Facilities</a></li>
-            <li><a href="media.php">Media</a></li>
-            <li><a href="about.php">About</a></li>
-            <li class="dropdown">
+            <li class="active"><a href="index.php">Начало</a></li>
+            <li><a href="facilities.php">Помещения</a></li>
+            <li><a href="media.php">Галерия</a></li>
+            <li><a href="about.php">За СофтУни</a></li>
+            <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="#">Action</a></li>
@@ -29,7 +29,7 @@
                 <li><a href="#">Separated link</a></li>
                 <li><a href="#">One more separated link</a></li>
               </ul>
-            </li>
+            </li>-->
           </ul>
         </div><!--/.nav-collapse -->
       </div>

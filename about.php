@@ -28,17 +28,16 @@
         <!-- Introduction Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About Us
-                    <small>It's Nice to Meet You!</small>
+                <h1 class="page-header">За СофтУни
+                    <small>Запознай се с екипа</small>
                 </h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, explicabo dolores ipsam aliquam inventore corrupti eveniet quisquam quod totam laudantium repudiandae obcaecati ea consectetur debitis velit facere nisi expedita vel?</p>
+                <p>Преподавателският състав е внимателно подбран и още по-внимателно генетично модифициран. Той се състои от практици, хора от индустрията, които могат да излекуват всеки от мързел, безхаберие и игнорантност.</p>
             </div>
         </div>
-
         <!-- Team Members Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Team</h2>
+                <h2 class="page-header">Преподавателски екип</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="img/gizmo-thumb.png" alt="gizmoImg" data-toggle="modal" data-target="#gizmoModal">
