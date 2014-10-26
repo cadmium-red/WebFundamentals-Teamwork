@@ -12,8 +12,8 @@
                     <img src="img/logo.png" alt="">
                 </a>
 		</div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
+        <div class="collapse navbar-collapse ">
+          <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="index.php">Начало</a></li>
             <li><a href="facilities.php">Помещения</a></li>
             <li><a href="media.php">Галерия</a></li>

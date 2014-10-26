@@ -26,9 +26,7 @@ margin:0 auto;
 footer {
     margin: 50px 0;
 }
-body > div.navbar.navbar-default.navbar-fixed-top > div > div.collapse.navbar-collapse > ul{
-float:right;
-}
+
 #content{
 margin-left:4%;
 margin-right:4%;
