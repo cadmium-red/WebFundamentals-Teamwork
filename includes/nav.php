@@ -18,6 +18,7 @@
             <li><a href="facilities.php">Помещения</a></li>
             <li><a href="media.php">Галерия</a></li>
             <li><a href="about.php">За ХардУни</a></li>
+            <li><a href="contacts.php">Контакти</a></li>
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
