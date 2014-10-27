@@ -5,7 +5,8 @@
 				<p class="text-muted">2014 Копирайт ХардУни. Олл райдс ризърветед!</p>
 			</div>
 			<div class="col-md-4">
-				<ul>
+				<h2>ХардУни</h2>
+				<ul class="list-unstyled lead">
 					<li class="active"><a href="index.php">Начало</a></li>
 					<li><a href="facilities.php">Помещения</a></li>
 					<li><a href="media.php">Галерия</a></li>
