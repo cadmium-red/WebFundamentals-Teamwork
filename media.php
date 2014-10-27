@@ -37,10 +37,10 @@
   <div class="row">
     <h1>Гледки от живота в ХардУни</h1>
     <div class="row">
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6332.JPG"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6359.JPG"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6360.JPG"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6363.JPG"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Изморени и мислещи за биричка по-време на 12та-та лекция за деня." href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6332.JPG"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Който не слуша на четири крака ще си ходи!" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6359.JPG"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Който не слуша на четири крака ще си ходи! От Боровец до вкъщи." href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6360.JPG"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Здрав дух здраво тяло" href="#"><img class="thumbnail img-responsive" src="gallery/IMG_6363.JPG"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/2255EE"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/449955/FFF"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/777"></a></div>
