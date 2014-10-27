@@ -38,7 +38,7 @@
 					<div class="carousel-caption">
 					  <h1>Кой е той?</h1>
 					  <p>Gloria patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.</p>
-					  <p><a class="btn btn-lg btn-primary" href="facilities.php" role="button">Научи повече тук</a></p>
+					  <p><a class="btn btn-lg btn-danger" href="facilities.php" role="button">Научи повече тук</a></p>
 					</div>
 				  </div>
 				</div>
@@ -48,7 +48,7 @@
 					<div class="carousel-caption">
 					  <h1>Преподаватели</h1>
 					  <p>В ХардУни те са отбрани и подобрени..</p>
-					  <p><a class="btn btn-lg btn-primary" href="about.php" role="button">Кои са те</a></p>
+					  <p><a class="btn btn-lg btn-danger" href="about.php" role="button">Кои са те</a></p>
 					</div>
 				  </div>
 				</div>
@@ -58,7 +58,7 @@
 					<div class="carousel-caption">
 					  <h1>Уют</h1>
 					  <p>Искаш да се чувстваш като у дома си - тогава иди си вкъщи!</p>
-					  <p><a class="btn btn-lg btn-primary" href="facilities.php" role="button">Научи останалото тук</a></p>
+					  <p><a class="btn btn-lg btn-danger" href="facilities.php" role="button">Научи останалото тук</a></p>
 					</div>
 				  </div>
 				</div>
