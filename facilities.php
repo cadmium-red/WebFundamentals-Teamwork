@@ -62,14 +62,12 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Project Description</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
-                <h3>Project Details</h3>
+                <h3>Вдъхновителят</h3>
+                <p>Той е в основата и зародиша на всички дейности и активности в ХардУни. Той е повелителят на метода и инициализаторът на класа.</p>
+                <h3>Умения:</h3>
                 <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Dolor Sit Amet</li>
-                    <li>Consectetur</li>
-                    <li>Adipiscing Elit</li>
+                    <li>Може да натика безкраен брой чорапи в чекмедже</li>
+                    <li>Запознат в основи с Пешо и Гошо</li>
                 </ul>
             </div>
 
@@ -84,14 +82,13 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Project Description</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
-                <h3>Project Details</h3>
+                <h3>Залата</h3>
+                <p>Обстановката в ХардУни е изключително благоприятна и плодородна. Благодарение на уникалният архитектурен, дизайнерски и технологичен подход студентите могат да се концентрират и насладят изцяло и само на личните си душевни терзания</p>
+                <h3>Залата разполага с:</h3>
                 <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Dolor Sit Amet</li>
-                    <li>Consectetur</li>
-                    <li>Adipiscing Elit</li>
+                    <li>Персонализирани гилотини</li>
+                    <li>Богат набор от камшици и каиши</li>
+                    <li>Тъпи предмети за инстантно елеминиране на болката</li>
                 </ul>
             </div>
 
@@ -106,14 +103,14 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Project Description</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
-                <h3>Project Details</h3>
+                <h3>Изпит в ХардУни</h3>
+                <p>Изпитите в ХардУни протичат стандартно, при засилени мерки за сигурност. За опасността на преписващите и мамещите се грижат приветливи и дружелюбни стюарди.</p>
+                <h3>По време на изпит на разположение са:</h3>
                 <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Dolor Sit Amet</li>
-                    <li>Consectetur</li>
-                    <li>Adipiscing Elit</li>
+                    <li>Персонализирани гилотини</li>
+                    <li>Богат набор от камшици и каиши</li>
+                    <li>Тъпи предмети за инстантно елеминиране на болката</li>
+                    <li>Таблетки пресен Хасковски цианид</li>
                 </ul>
             </div>
 
