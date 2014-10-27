@@ -37,7 +37,7 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="img/sauron.png" alt="">
+                <img class="img-responsive" src="img/hell.png" alt="">
             </div>
 
             <div class="col-md-4">
