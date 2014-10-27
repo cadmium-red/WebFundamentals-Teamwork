@@ -58,7 +58,7 @@
         <div class="row" id="div-2">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="img/exam.png" alt="">
+                <img class="img-responsive" src="img/cardinal.png" alt="">
             </div>
 
             <div class="col-md-4">
@@ -80,7 +80,7 @@
         <div class="row" id="div-3">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="img/hell.png" alt="">
+                <img class="img-responsive" src="img/hall.png" alt="">
             </div>
 
             <div class="col-md-4">
@@ -102,7 +102,7 @@
         <div class="row" id="div-4">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="img/hell.png" alt="">
+                <img class="img-responsive" src="img/exam.png" alt="">
             </div>
 
             <div class="col-md-4">
@@ -129,25 +129,25 @@
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#" id="link1">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive portfolio-item" src="img/hell.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#"  id="link2">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive portfolio-item" src="img/cardinal.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#"  id="link3">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive portfolio-item" src="img/hall.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
                 <a href="#"  id="link4">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+                    <img class="img-responsive portfolio-item" src="img/exam.png" alt="">
                 </a>
             </div>
 
