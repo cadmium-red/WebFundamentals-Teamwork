@@ -29,18 +29,15 @@
 
 		<!-- NAVIGATION -->
 		<?php include('includes/nav.php'); ?>
-		<!-- NAVIGATION -->
-		<div class="grid">
-			<div id="header">			
+		<!-- NAVIGATION -->	
     <!-- Page Content -->
 <div class="container">
-    
 	<div class="col-md-8">
 		<h1>Свържете се с нас</h1>
 		pesho ti siii :D
 	</div>
 	<div class="col-md-4">
-	<div class="fb-like-box" data-href="https://www.facebook.com/pages/HardUni/814806185224174" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+		<div class="fb-like-box" data-href="https://www.facebook.com/pages/HardUni/814806185224174" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
 	</div>
 </div>
     <!-- /.container -->
