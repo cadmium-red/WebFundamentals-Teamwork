@@ -41,10 +41,10 @@
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Който не слуша на четири крака ще си ходи!" href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6359.JPG"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="От Боровец до вкъщи." href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6360.JPG"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Един софтуерен инженер трябва да поддържа и физическата си форма!" href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6363.JPG"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/2255EE"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/449955/FFF"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/777"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/992233"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life1.jpg"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life2.jpg"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life3.jpg"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life4.jpg"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/EEE"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="На колко изпита те скъсаха? Ако броим и утрешния, пет." href="#"><img class="thumbnail img-responsive" src="img/gallery/fb_img_01.jpg"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="В HardUni лекциите продължават и в малките часове на нощта!" href="#"><img class="thumbnail img-responsive" src="img/gallery/DSC08875.JPG"></a></div>
