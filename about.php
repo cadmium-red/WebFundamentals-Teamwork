@@ -21,9 +21,6 @@
 	<!-- NAVIGATION -->
     <!-- Page Content -->
     <div class="container">
-    <!-- Page Content -->
-    <div class="container">
-
         <!-- Introduction Row -->
         <div class="row">
             <div class="col-lg-12">
@@ -39,9 +36,9 @@
                 <h2 class="page-header">Преподавателски екип</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/gizmo-thumb.png" alt="gizmoImg" data-toggle="modal" data-target="#gizmoModal">
-                <h3>Гизмо Наков
-                    <small>Master Могуей</small>
+                <img class="img-circle img-responsive img-center" src="img/gizmo-thumb.png" alt="Gizmo" data-toggle="modal" data-target="#gizmoModal">
+                <h3>Наков
+                    <small>Master</small>
                 </h3>
                 <p>Наков не се страхува от нищо! Но всичко се страхува от Наков!</p>
             </div>
@@ -49,15 +46,15 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/gizmo.png" class="img-responsive">
+						<img src="img/gizmo.png" alt="Gizmo full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
 			</div>			
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/achebg-thumb.png" alt="achebgImg" data-toggle="modal" data-target="#acheModal">
-                <h3>Аче Смит
-                    <small>Java Могуей</small>
+                <img class="img-circle img-responsive img-center" src="img/achebg-thumb.png" alt="Ache" data-toggle="modal" data-target="#acheModal">
+                <h3>Аче
+                    <small>Джавар</small>
                 </h3>
                 <p>Джаварите не включват светлината...Те гасят тъмнината</p>
             </div>
@@ -65,15 +62,15 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/achebg.png" class="img-responsive">
+						<img src="img/achebg.png" alt="Ache full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/vlado-thumb.png" alt="vladoImg" data-toggle="modal" data-target="#vladoModal">
-                <h3>Владо theCook
-                    <small>CSS Гремлин</small>
+                <img class="img-circle img-responsive img-center" src="img/vlado-thumb.png" alt="Vlado" data-toggle="modal" data-target="#vladoModal">
+                <h3>Владо
+                    <small>ЦССар</small>
                 </h3>
                 <p>Когато се разхожда в планината, той оглежда заобикалящата го природа и се любува на графиката!</p>
             </div>
@@ -81,15 +78,15 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/vlado.png" class="img-responsive">
+						<img src="img/vlado.png" alt="Vlado full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/marian-thumb.png" alt="marianImg" data-toggle="modal" data-target="#marianModal">
-                <h3>Мариян Smith
-                    <small>Linux Гремлин</small>
+                <img class="img-circle img-responsive img-center" src="img/marian-thumb.png" alt="Marian" data-toggle="modal" data-target="#marianModal">
+                <h3>Мариян
+                    <small>Линуксджия</small>
                 </h3>
                 <p>Собственоръчно е компилирал първият компилатор...</p>
             </div>
@@ -97,15 +94,15 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/marian.png" class="img-responsive">
+						<img src="img/marian.png" alt="Marian full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/sto-thumb.png" alt="stoImg" data-toggle="modal" data-target="#stoModal">
+                <img class="img-circle img-responsive img-center" src="img/sto-thumb.png" alt="Sto" data-toggle="modal" data-target="#stoModal">
                 <h3>Просто Сто
-                    <small>Linux Гремлин</small>
+                    <small>Линуксджия</small>
                 </h3>
                 <p>Може да инсталира Microsoft Office на Slackware</p>
             </div>
@@ -113,13 +110,13 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/sto.png" class="img-responsive">
+						<img src="img/sto.png" alt="Sto full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
 			</div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="img/assistent-thumb.png" alt="assistantImg" data-toggle="modal" data-target="#assistantModal">
+                <img class="img-circle img-responsive img-center" src="img/assistent-thumb.png" alt="Assistant" data-toggle="modal" data-target="#assistantModal">
                 <h3>Рандом Асистент
                     <small>Гремлин Хелпер</small>
                 </h3>
@@ -129,7 +126,7 @@
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
-						<img src="img/assistent.png" class="img-responsive">
+						<img src="img/assistent.png" alt="Assistant full" class="img-responsive">
 					</div>
 				</div>
 			  </div>
