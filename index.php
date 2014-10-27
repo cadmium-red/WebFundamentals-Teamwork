@@ -36,9 +36,9 @@
 				  <img src="img/cardinal.png" alt="First slide">
 				  <div class="container">
 					<div class="carousel-caption">
-					  <h1>Example headline.</h1>
-					  <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-					  <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+					  <h1>Кой е той?</h1>
+					  <p>Gloria patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.</p>
+					  <p><a class="btn btn-lg btn-primary" href="facilities.php" role="button">Научи повече тук</a></p>
 					</div>
 				  </div>
 				</div>
@@ -46,9 +46,9 @@
 				  <img src="img/achebg.png" alt="Second slide">
 				  <div class="container">
 					<div class="carousel-caption">
-					  <h1>Another example headline.</h1>
-					  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-					  <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+					  <h1>Преподаватели</h1>
+					  <p>В ХардУни те са отбрани и подобрени..</p>
+					  <p><a class="btn btn-lg btn-primary" href="about.php" role="button">Кои са те</a></p>
 					</div>
 				  </div>
 				</div>
@@ -56,9 +56,9 @@
 				  <img src="img/hall.png" alt="Third slide">
 				  <div class="container">
 					<div class="carousel-caption">
-					  <h1>One more for good measure.</h1>
-					  <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-					  <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+					  <h1>Уют</h1>
+					  <p>Искаш да се чувстваш като у дома си - тогава иди си вкъщи!</p>
+					  <p><a class="btn btn-lg btn-primary" href="facilities.php" role="button">Научи останалото тук</a></p>
 					</div>
 				  </div>
 				</div>
