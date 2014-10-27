@@ -46,7 +46,7 @@
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/777"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/992233"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/EEE"></a></div>
-      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 11" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350/449955/FFF"></a></div>
+      <div class="col-lg-3 col-sm-4 col-xs-6"><a title="На колко изпита те скъсаха? Ако броим и утрешния, пет." href="#"><img class="thumbnail img-responsive" src="gallery/fb_img_01.jpg"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="В HardUni лекциите продължават и в малките часове на нощта!" href="#"><img class="thumbnail img-responsive" src="gallery/DSC08875.JPG"></a></div>
       <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Тълпа ентусиазирани студенти на HardUni се тълпят пред най-новите хардуерни технологии (OLinuXino)" href="#"><img class="thumbnail img-responsive" src="gallery/DSC08690.JPG"></a></div>
     </div>
