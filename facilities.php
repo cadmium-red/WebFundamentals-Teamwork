@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Facilities</title>
+    <title>Harcore University | Activities</title>
 
     <!-- CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -25,8 +25,8 @@
         <!-- Portfolio Item Heading -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Portfolio Item
-                    <small>Item Subheading</small>
+                <h1 class="page-header">За Нас
+                    <small>Активности в ХардУни</small>
                 </h1>
             </div>
         </div>
@@ -40,14 +40,14 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Project Description</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
-                <h3>Project Details</h3>
+                <h3>Местоположение</h3>
+                <p>ХардУни е рзположен на топлокация - живописно и комуникативно хълмче в полите на Мордор. На метри от последната спирка на Адския транспорт.</p>
+                <h3>Сградата разполага с:</h3>
                 <ul>
-                    <li>Lorem Ipsum</li>
-                    <li>Dolor Sit Amet</li>
-                    <li>Consectetur</li>
-                    <li>Adipiscing Elit</li>
+                    <li>Централно отопление</li>
+                    <li>Постоянно работещи пещи</li>
+                    <li>Източник на газова плазма</li>
+                    <li>Кабелен интернет</li>
                 </ul>
             </div>
 
