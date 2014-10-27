@@ -42,7 +42,7 @@
                 </h3>
                 <p>Наков не се страхува от нищо! Но всичко се страхува от Наков!</p>
             </div>
-			<div id="gizmoModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			<div id="gizmoModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -58,7 +58,7 @@
                 </h3>
                 <p>Джаварите не включват светлината...Те гасят тъмнината</p>
             </div>
-			<div id="acheModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			<div id="acheModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -74,7 +74,7 @@
                 </h3>
                 <p>Когато се разхожда в планината, той оглежда заобикалящата го природа и се любува на графиката!</p>
             </div>
-			<div id="vladoModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			<div id="vladoModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -90,7 +90,7 @@
                 </h3>
                 <p>Собственоръчно е компилирал първият компилатор...</p>
             </div>
-			<div id="marianModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			<div id="marianModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -106,7 +106,7 @@
                 </h3>
                 <p>Може да инсталира Microsoft Office на Slackware</p>
             </div>
-			<div id="stoModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+			<div id="stoModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -122,7 +122,7 @@
                 </h3>
                 <p>На чужд гръб и сто студента са малко.</p>
             </div>
-						<div id="assistantModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="aboutModal" aria-hidden="true">
+						<div id="assistantModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 			  <div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
