@@ -144,7 +144,7 @@
 			</div>
         </div>
 
-        <hr>		
+        <hr />		
 			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>
 			<!-- END FOOTER -->

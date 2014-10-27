@@ -96,7 +96,7 @@
         </div>
         <!-- /.row -->
 
-        <hr>
+        <hr />
 
 			<!-- START FOOTER -->
 			<?php include('includes/footer.php'); ?>

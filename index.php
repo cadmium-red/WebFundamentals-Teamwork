@@ -84,7 +84,7 @@
 					<p>"Ако не успееш от първия път, най-вероятно парашутизмът не е за теб!"</p>
 					<footer>Некой Важен</footer>
 					</blockquote>
-				<hr></hr>
+				<hr />
 			</div> <!-- end #content -->
 		<!-- START FOOTER -->
 		<?php include('includes/footer.php'); ?>
