@@ -32,8 +32,74 @@
         </div>
         <!-- /.row -->
 
-        <!-- Portfolio Item Row -->
-        <div class="row">
+        <!-- Portfolio Item Row 1-->
+        <div class="row" id="div-1">
+
+            <div class="col-md-8">
+                <img class="img-responsive" src="img/hell.png" alt="">
+            </div>
+
+            <div class="col-md-4">
+                <h3>Project Description</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+                <h3>Project Details</h3>
+                <ul>
+                    <li>Lorem Ipsum</li>
+                    <li>Dolor Sit Amet</li>
+                    <li>Consectetur</li>
+                    <li>Adipiscing Elit</li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- /.row -->
+		
+		        <!-- Portfolio Item Row 2-->
+        <div class="row" id="div-2">
+
+            <div class="col-md-8">
+                <img class="img-responsive" src="img/exam.png" alt="">
+            </div>
+
+            <div class="col-md-4">
+                <h3>Project Description</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+                <h3>Project Details</h3>
+                <ul>
+                    <li>Lorem Ipsum</li>
+                    <li>Dolor Sit Amet</li>
+                    <li>Consectetur</li>
+                    <li>Adipiscing Elit</li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- /.row -->
+		
+		        <!-- Portfolio Item Row 3-->
+        <div class="row" id="div-3">
+
+            <div class="col-md-8">
+                <img class="img-responsive" src="img/hell.png" alt="">
+            </div>
+
+            <div class="col-md-4">
+                <h3>Project Description</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+                <h3>Project Details</h3>
+                <ul>
+                    <li>Lorem Ipsum</li>
+                    <li>Dolor Sit Amet</li>
+                    <li>Consectetur</li>
+                    <li>Adipiscing Elit</li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- /.row -->
+		
+		        <!-- Portfolio Item Row 4-->
+        <div class="row" id="div-4">
 
             <div class="col-md-8">
                 <img class="img-responsive" src="img/hell.png" alt="">
@@ -62,25 +128,25 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#">
+                <a href="#" id="link1">
                     <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#">
+                <a href="#"  id="link2">
                     <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#">
+                <a href="#"  id="link3">
                     <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#">
+                <a href="#"  id="link4">
                     <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
                 </a>
             </div>
@@ -99,6 +165,7 @@
 
     <!-- jQuery Version 1.11.0 -->
     <script src="js/jquery-1.11.0.js"></script>
+    <script src="js/facilities.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
