@@ -34,11 +34,11 @@
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Който не слуша на четири крака ще си ходи!" href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6359.JPG" alt="four legs"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="От Боровец до вкъщи." href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6360.JPG"  alt="crawling"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Един софтуерен инженер трябва да поддържа и физическата си форма!" href="#"><img class="thumbnail img-responsive" src="img/gallery/IMG_6363.JPG" alt="physical form"></a></div>
-				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Накича пак ще пие." href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life1.jpg" alt="HardUni Img1"></a></div>
-				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Плевналиев дори не подозира какво се случва тук." href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life2.jpg"  alt="HardUni Img2"></a></div>
+				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life1.jpg" alt="HardUni Img1"></a></div>
+				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life2.jpg"  alt="HardUni Img2"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="В HardUni разбира се се намира и по някоя нормална душа. :)" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life3.jpg" alt="HardUni Img3"></a></div>
-				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Нещо неразбираемо." href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life4.jpg" alt="HardUni Img4"></a></div>
-				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Диамантииииииииии..." href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life5.jpg" alt="HardUni Img5"></a></div>
+				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life4.jpg" alt="HardUni Img4"></a></div>
+				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="img/gallery/harduni_life5.jpg" alt="HardUni Img5"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="На колко изпита те скъсаха? Ако броим и утрешния, пет." href="#"><img class="thumbnail img-responsive" src="img/gallery/fb_img_01.jpg" alt="HardUni Img6"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="В HardUni лекциите продължават и в малките часове на нощта!" href="#"><img class="thumbnail img-responsive" src="img/gallery/DSC08875.JPG" alt="HardUni Img7"></a></div>
 				  <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Тълпа ентусиазирани студенти на HardUni се тълпят пред най-новите хардуерни технологии (OLinuXino)" href="#"><img class="thumbnail img-responsive" src="img/gallery/DSC08690.JPG" alt="HardUni Img8"></a></div>
