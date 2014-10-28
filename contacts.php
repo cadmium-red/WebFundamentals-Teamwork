@@ -12,6 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="all" /> 	
 	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 	<body>
 		<div id="fb-root"></div>
@@ -62,6 +63,10 @@
 			</div>
 			<div class="col-md-4">
 				<div class="fb-like-box" data-href="https://www.facebook.com/pages/HardUni/814806185224174" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+			</div>
+			<div class="col-md-12">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38731.01843011139!2d23.045439451806644!3d42.59881993790281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14aacb4941e949cf%3A0x400a01269bf5580!2sPernik!5e1!3m2!1sen!2sbg!4v1414490072505" width= 100% height="450" frameborder="0" style="border:0">
+				</iframe>
 			</div>
 		</div>
 			<!-- /.container -->

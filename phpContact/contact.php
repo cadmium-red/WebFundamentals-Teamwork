@@ -5,7 +5,7 @@ $Tel = $_POST['phone'];
 $Message = $_POST['msg']; 
 
 /*Sending Email*/ 
-$to = "asfasdfasdfsadfasf@abv.bg";  //
+$to = "office@harduni.lmarkov.com";  //
 $subject = "Web Mail"; 
 $message = " 
 From: $Name <br>
