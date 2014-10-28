@@ -12,6 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="all" /> 	
 	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 	<body>
 		    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
