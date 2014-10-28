@@ -12,7 +12,7 @@
     <!-- CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="all" /> 	
-
+	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 </head>
 
 <body>
